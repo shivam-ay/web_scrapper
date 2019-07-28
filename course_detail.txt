@@ -24,6 +24,18 @@ Engineers, Software and IT Professionals, Marketing and Sales Professionals, Man
 Minimum Eligibility
 Bachelor’s degree, no coding experience required
 
+Syllabus:-
+Preparatory Course
+Statistics and Exploratory Data Analytics
+Machine Learning I
+Machine Learning II
+Big Data and SQL
+Elective - Deep Learning and Neural Networks
+Elective - Natural Language Processing
+Elective - Healthcare
+Elective - E-commerce
+Elective - BFSI
+
 Sub Course :	Data Science | PG Diploma | Online + Offline	link :- https://programs.upgrad.com/datascience-hybrid
 Course Details:-
 PG Diploma from IIIT-B
@@ -78,6 +90,16 @@ Engineers, Software and IT Professionals, Data Professionals
 Minimum Eligibility
 Bachelor's Degree with minimum 1 year of work experience or a degree in Mathematics or Statistics
 
+Syllabus:-
+Data Science Tool Kit
+Statistics and Exploratory Data Analytics
+Machine Learning - I
+Machine Learning - II
+Natural Language Processing
+Deep Learning
+Reinforcement Learning
+Graphical Model
+
 Sub Course :	MBA (Executive) | Business Analytics Specialisation	link :- /mba-business-analytics-nmims/
 Course Details:-
 from NAAC A+ Accredited University
@@ -96,6 +118,29 @@ Who Is This Program For?
 Mid-level working professionals from any domain: Marketing and Sales, HR, Finance, Operations, Software and IT. Anyone looking for an analytics-oriented leadership role.
 Eligibility
 Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and 2-3 years of work experience OR, Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and a postgraduation / professional degree with minimum 50% marks and 1-2 years of work experience
+
+Syllabus:-
+Term 1 - Business Communication
+Term 1 - Managerial Economics
+Term 1 - Marketing Management
+Term 1 - Information Systems for Managers
+Term 1 - Business Statistics
+Term 2 - Python for Business Analytics
+Term 2 - Business Problem Solving, Tableau and Storytelling
+Term 2 - Behavioural Sciences and Human Resource Management
+Term 2 - Financial Accounting for Managers
+Term 2 - Operations and Supply Management
+Term 3 - Project Finance
+Term 3 - Strategic Business Management
+Term 3 - Exploratory Data Analytics, Big Data and SQL
+ Term 3 - Machine Learning- I
+Term 3 - Model Selection and Machine Learning - II
+Term 4 - Advanced Machine Learning
+Term 4 - Marketing, Web and Social Media Analytics
+ Term 4 - Fraud and Risk Analytics
+Term 4 - Supply Chain And Logistics Analytics
+Term 4 - HR Analytics
+Term 5 - Capstone Project
 
 Sub Course :	Business Analytics | Certification	link :- /business-analytics/
 Course Details:-
@@ -116,6 +161,11 @@ Fresh Graduates, Managers, Engineers, Software and IT Professionals, Marketing &
 Minimum Eligibility
 Bachelor's or Diploma Graduate Degree
 
+Syllabus:-
+Business Problem Solving, Insights and Storytelling
+Exploratory Data Analysis and Statistics & Optimisation
+Predictive Analytics 
+
 Sub Course :	Data Science | PG Certificate	link :- /data-science-certification-course/
 Course Details:-
 Format
@@ -132,6 +182,12 @@ Who Is this Program For?
 Engineers, Software and IT Professionals, Marketing and Sales Professionals, Managers
 Minimum Eligibility
 Bachelor’s degree, no coding experience required
+
+Syllabus:-
+Preparatory Course
+Statistics and Exploratory Data Analytics
+Machine learning I
+Machine Learning II
 
 Sub Course :	Big Data Engineering | PG Program	link :- /big-data/
 Course Details:-
@@ -154,6 +210,15 @@ IT and Technology Professionals, Project Leads and Managers in IT/Tech Companies
 Minimum Eligibility
 Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
 
+Syllabus:-
+Pre-Requisites
+Foundations of Big Data
+Big Data Engineering Platforms
+Processing Big Data: ETL and Batch Processing
+Processing of Real Time Data and Streaming Data
+Big Data Analytics
+Capstone
+
 Sub Course :	Machine Learning and NLP | PG Certificate	link :- /natural-language-processing/
 Course Details:-
 Format
@@ -173,6 +238,13 @@ Engineers, Software and IT Professionals, Data Professionals
 Minimum Eligibility
 Bachelor's Degree, No minimum work experience required
 
+Syllabus:-
+Data Science Tool Kit
+Statistics and Exploratory Data Analytics
+Machine Learning - I
+Natural Language Processing
+Deep Learning
+
 Sub Course :	Machine Learning and Deep Learning | PG Certificate	link :- /deep-learning/
 Course Details:-
 Format
@@ -189,6 +261,12 @@ Who Is This Program For
 Engineers, Software and IT Professionals, Data Professionals
 Minimum Eligibility
 Bachelor's Degree, No minimum work experience required
+
+Syllabus:-
+Prepratory Course
+Statistics Essentials
+Machine Learning
+Deep Learning & Neural Networks
 
 Sub Course :	Big Data and Analytics | PG Certificate	link :- /big-data-analytics-ai-pgc-bits-pilani/
 Course Details:-
@@ -208,6 +286,13 @@ Who is this course for?
 IT & Technology Professionals, Project Leads & Managers in IT/Tech Companies, Big Data Professionals and Java Developers & Professionals
 Minimum Eligibility
 Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
+
+Syllabus:-
+Preparatory Content
+The Hadoop Framework
+ETL & Batch Processing with Hadoop
+Big Data Analytics with Spark
+Capstone Project
 
 Sub Course :	Data Science | Master of Science	link :- /masters-in-data-science/
 Course Details:-
@@ -230,6 +315,20 @@ Engineers, Software and IT Professionals, Marketing and Sales Professionals, Man
 Minimum Eligibility
 Bachelor’s degree, no coding experience required
 
+Syllabus:-
+Preparatory Course
+Statistics and Exploratory Data Analytics
+Machine Learning I
+Machine Learning II
+Big Data and SQL
+Elective - Deep Learning and Neural Networks
+Elective - Natural Language Processing
+Elective - Healthcare
+Elective - E-commerce
+Elective - BFSI
+Research Methodologies
+Master's Dissertation
+
 Sub Course :	Machine Learning and AI | Master of Science	link :- /masters-in-ml-ai/
 Course Details:-
 Students Empowered
@@ -250,6 +349,18 @@ Who Is This Program For?
 Engineers, Software and IT Professionals, Data Professionals
 Minimum Eligibility
 Bachelor's Degree with minimum 1 year of work experience or a degree in Mathematics or Statistics
+
+Syllabus:-
+Data Science Tool Kit
+Statistics and Exploratory Data Analytics
+Machine Learning - I
+Machine Learning - II
+Natural Language Processing
+Deep Learning
+Reinforcement Learning
+Graphical Model
+Research Methodologies
+Master's Dissertation
 
 Course Name:
 					Management
@@ -274,6 +385,29 @@ Mid-level working professionals from any domain: Marketing and Sales, HR, Financ
 Eligibility
 Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and 2-3 years of work experience OR, Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and a postgraduation / professional degree with minimum 50% marks and 1-2 years of work experience
 
+Syllabus:-
+Term 1 - Business Communication
+Term 1 - Managerial Economics
+Term 1 - Marketing Management
+Term 1 - Information Systems for Managers
+Term 1 - Business Statistics
+Term 2 - Python for Business Analytics
+Term 2 - Business Problem Solving, Tableau and Storytelling
+Term 2 - Behavioural Sciences and Human Resource Management
+Term 2 - Financial Accounting for Managers
+Term 2 - Operations and Supply Management
+Term 3 - Project Finance
+Term 3 - Strategic Business Management
+Term 3 - Exploratory Data Analytics, Big Data and SQL
+ Term 3 - Machine Learning- I
+Term 3 - Model Selection and Machine Learning - II
+Term 4 - Advanced Machine Learning
+Term 4 - Marketing, Web and Social Media Analytics
+ Term 4 - Fraud and Risk Analytics
+Term 4 - Supply Chain And Logistics Analytics
+Term 4 - HR Analytics
+Term 5 - Capstone Project
+
 Sub Course :	Digital Marketing | PG Certificate	link :- /digital-marketing/
 Course Details:-
 Students Empowered
@@ -294,6 +428,18 @@ Who Is This Program For?
 Freshers, Traditional Marketers, Entrepreneurs, Brand and Communication Managers, Sales Professionals
 Minimum Eligibility
 Bachelor's or Equivalent Degree
+
+Syllabus:-
+Marketing Fundamentals
+Digital Channel Deep Dives 1
+Digital Channel Deep Dives 2
+Marketing Analytics and Integrated Strategy
+Specialisation in Branding and Communications
+Specialisation in Marketing Analytics
+Specialisation in Social Media and Content Marketing
+Branding and Communication
+Social Media and Content Marketing
+Marketing Analytics
 
 Sub Course :	Digital Marketing Certificate Program | Career Track	link :- /digital-marketing-start-career/
 Course Details:-
@@ -316,6 +462,23 @@ Professionals with 0-2 years of work experience
 Minimum Eligibility
 Bachelor's Degree or Final year of graduation
 
+Syllabus:-
+Digital Marketing Channels and Metrics
+Creating a Website and blogs
+Search Engine Optimisation
+Search Paid Marketing - SEM
+Programmatic Ad Buying and Display Marketing
+Content Marketing
+Social Media Marketing
+Email Marketing
+Web Analytics
+Integrated Marketing Strategy
+Soft Skills for a Digital Marketer
+SEM
+Social Media
+Content Marketing
+SEO
+
 Sub Course :	Product Management | PG Certificate	link :- /product-management/
 Course Details:-
 Students Empowered
@@ -336,6 +499,25 @@ Who Is This Program for?
 Project Managers, Project Leads, Technical Managers, Software Developers, Marketing Professionals, Sales Professionals, UI-UX design, Analysts, Consultants, Entrepreneurs and BD Managers
 Minimum Eligibility
 The applicant should have at least 1 year of work experience and an undergraduate degree.
+
+Syllabus:-
+Welcome & Introduction to Product Management
+Understanding the Market
+Introduction to User Research
+Building Artifacts from User Research
+User-Centered Design
+Fitness App - Product Artifacts
+Prototyping
+Usability Testing
+Minimum Viable Product
+Product Analytics
+User Engagement & Growth
+Industry Project Part 1
+Product Development
+Product Planning
+Industry Project Part 2
+Product Launch & Marketing
+Honing Your Leadership Skills
 
 Sub Course :	Strategic Digital Marketing | Executive Program	link :- /digital-strategies/
 Course Details:-
@@ -358,6 +540,11 @@ Business Owners, Digital Marketing Managers, Marketing Executive, Marketing Mana
 Minimum Eligibility
 Bachelor's degree, 2 years of work experience
 
+Syllabus:-
+Re-thinking Marketing Fundamentals
+Deep-dive into the Marketing Channels
+Marketing Analytics & Integrated Marketing Strategies
+
 Sub Course :	Entrepreneurship | PG Certificate	link :- /entrepreneurship-certificate-program/
 Course Details:-
 Enrolments
@@ -372,6 +559,12 @@ Top Skills You Will Learn
 Idea Assessment, Customer and Competitor Analysis, Market Sizing, Business Model Development, Launch and Growth
 Who Is This Course For?
 Working Professionals, Entrepreneurs, SMEs, Students
+
+Syllabus:-
+Entrepreneurship Mindset
+Product-Market Fit
+Building Products
+Building Business
 
 Sub Course :	Management | PG Program	link :- /sales-and-marketing/
 Course Details:-
@@ -392,6 +585,18 @@ Sales and Marketing Executives, IT Professionals, Managers and Entrepreneurs loo
 Minimum Eligibility
 Bachelor’s degree, no prior sales and marketing experience required
 
+Syllabus:-
+Fundamentals of Sales and Marketing
+Market Research
+Fundamentals of Leadership
+Marketing Channels and Platforms - 1
+Accounting and Finance
+Business Analytics
+OB, HR Management, Ethics and Legal
+Marketing Channels and Platforms - 2
+Strategic Management
+Distribution management
+
 Sub Course :	Life Insurance Job | PG Program	link :- /pgpli-hdfclife/
 Course Details:-
 with HDFC Life
@@ -410,6 +615,11 @@ Who is this course for?
 Working Professionals with 0-4 years of experience or Final year students
 Minimum Eligibility
 Bachelors Degree at the start of OJT and a minimum age of 21 at the completion of the program
+
+Syllabus:-
+Setting the context
+Insurance concepts
+Selling an Insurance Plan
 
 Course Name:
 					Technology
@@ -434,6 +644,17 @@ Software Developers, IT Professionals, Engineers, Analysts, Technical Leads
 Minimum Eligibility
  A bachelors degree in Engineering , Science or Mathematics ( B.E. , B.Tech. , B.Sc. , BCA/MCA) . No prior coding experience required
 
+Syllabus:-
+Object-Oriented Programming
+Algorithms
+Data Structures
+Software Engineering Frameworks and Server Side Development
+API and Backend Development
+Blockchain Development in Java Script using Node Js
+Blockchain Development in  Ethereum
+Blockchain Development in Hyperledger
+Capstone Project
+
 Sub Course :	Product Management | PG Certificate	link :- /product-management/
 Course Details:-
 Students Empowered
@@ -454,6 +675,25 @@ Who Is This Program for?
 Project Managers, Project Leads, Technical Managers, Software Developers, Marketing Professionals, Sales Professionals, UI-UX design, Analysts, Consultants, Entrepreneurs and BD Managers
 Minimum Eligibility
 The applicant should have at least 1 year of work experience and an undergraduate degree.
+
+Syllabus:-
+Welcome & Introduction to Product Management
+Understanding the Market
+Introduction to User Research
+Building Artifacts from User Research
+User-Centered Design
+Fitness App - Product Artifacts
+Prototyping
+Usability Testing
+Minimum Viable Product
+Product Analytics
+User Engagement & Growth
+Industry Project Part 1
+Product Development
+Product Planning
+Industry Project Part 2
+Product Launch & Marketing
+Honing Your Leadership Skills
 
 Sub Course :	Software Development | PG Diploma	link :- /software-engineering/
 Course Details:-
@@ -476,6 +716,16 @@ Software Developers, IT Professionals, Engineers, Analysts
 Minimum Eligibility
 Bachelor's Degree in Engineering; no coding experience required
 
+Syllabus:-
+Object-Oriented Programming
+Algorithms
+Data Structures
+Software Engineering Frameworks and Server Side Development
+Distributed and Scalable Server Architecture
+Software Design and Frontend Development
+Advanced Frontend Development and DevOps
+Capstone
+
 Sub Course :	Blockchain Technology | PG Certificate	link :- /blockchain-technology/
 Course Details:-
 Format
@@ -494,6 +744,13 @@ Who is this program for?
 Software Developers, IT Professionals, Engineers, Analysts, Technical Leads
 Program Prerequisites
 A bachelor's degree in Engineering, Science or Mathematics (B.E., B.Tech., B.Sc., BCA/MCA). No prior coding experience required
+
+Syllabus:-
+Precourse
+Blockchain Development in JavaScript using Node JS
+Blockchain Development in  Ethereum
+Blockchain Development in Hyperledger
+Capstone Project
 
 Sub Course :	Big Data Engineering | PG Program	link :- /big-data/
 Course Details:-
@@ -516,6 +773,15 @@ IT and Technology Professionals, Project Leads and Managers in IT/Tech Companies
 Minimum Eligibility
 Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
 
+Syllabus:-
+Pre-Requisites
+Foundations of Big Data
+Big Data Engineering Platforms
+Processing Big Data: ETL and Batch Processing
+Processing of Real Time Data and Streaming Data
+Big Data Analytics
+Capstone
+
 Sub Course :	Entrepreneurship | PG Certificate	link :- /entrepreneurship-certificate-program/
 Course Details:-
 Enrolments
@@ -530,3 +796,9 @@ Top Skills You Will Learn
 Idea Assessment, Customer and Competitor Analysis, Market Sizing, Business Model Development, Launch and Growth
 Who Is This Course For?
 Working Professionals, Entrepreneurs, SMEs, Students
+
+Syllabus:-
+Entrepreneurship Mindset
+Product-Market Fit
+Building Products
+Building Business

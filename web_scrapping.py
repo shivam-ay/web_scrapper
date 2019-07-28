@@ -40,9 +40,15 @@ def get_Program_Details(o):
             print("\n")
             d2 = soup.findAll('div',{'class':'ProgramValues__list__label mb-20'})
             d3 = soup.findAll('div',{'class':'ProgramValues__list__desc'})
+            d4 = soup.findAll('div',{'class':'Syllabus__module__header__meta__title'})
             for k in range(len(d2)):
                 print(d2[k].get_text()+"\n"+d3[k].get_text())
                 file.write(d2[k].get_text()+"\n"+d3[k].get_text()+"\n")
+            file.write("\nSyllabus:-\n")
+            print("\nSyllabus:-\n")
+            for j in d4:
+                file.write(j.get_text()+"\n")
+                print(j.get_text()+"\n")
             print("\n")
 
 o = []
