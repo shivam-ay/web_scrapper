@@ -1,0 +1,532 @@
+
+Course Name:
+					Data Science
+					
+
+Sub Course :	Data Science | PG Diploma | Online	link :- /data-science/
+Course Details:-
+Students Empowered
+5000+
+Format
+Online
+Recommended 10-15 hrs/week
+11 months
+Start Date
+Sep 28, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Statistics, Predictive Analytics using Python, Machine Learning, Data Visualization, Big Data Analytics, etc.
+Job Opportunities
+Data Analyst, Data Scientist, Product Analyst, Machine Learning Engineer, Business Analyst
+Who Is This Program For?
+Engineers, Software and IT Professionals, Marketing and Sales Professionals, Managers
+Minimum Eligibility
+Bachelor’s degree, no coding experience required
+
+Sub Course :	Data Science | PG Diploma | Online + Offline	link :- https://programs.upgrad.com/datascience-hybrid
+Course Details:-
+PG Diploma from IIIT-B
+100+ hrs of classroom learning
+400+ hrs of online learning
+20+ fortnightly sessions 
+360 º Career Support
+15+ Industry Projects
+0% EMI  Available
+Demonstration of projects by experts
+Batch starts -  Sep 2019
+Project 1:
+Uber Supply Demand Gap
+Identify the geographies and sector for investment of their surplus funds to maximize the return.
+Project 2:
+Telecom Churn Prevention
+Learn how churning customers can be identified in the extremely competitive Telecom sector.
+
+Project 3:
+Spark Funds Investment
+Identify the geographies and sector for investment of their surplus funds to maximize the return.
+Project 4:
+Retail Giant Sales Prediction
+Help a retail giant predict the future sales volume of retail goods using time series forecasting.
+
+Project 5:
+Creditworthiness of Customers
+Learn how predictive analytics can be used to decide the creditworthiness of customers and whether they be issued a credit card or not.
+Project 6:
+E-commerce Market Mix Modelling
+Use modelling to help E-com websites identify the right marketing channel and figure out the optimal spend to drive sales.
+
+
+Sub Course :	Machine Learning and AI | PG Diploma	link :- /machine-learning-and-artificial-intelligence/
+Course Details:-
+Students Empowered
+1000+
+Format
+Online
+Recommended 15 hrs/week
+11 months
+Start Date
+Sep 28, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+NLP, Deep Learning, Reinforcement Learning and Graphical Models along with a solid foundation in Predictive Analytics and Statistics
+Job Opportunities
+Business Analyst, Product Analyst, Machine Learning Engineer, Data Scientist
+Who Is This Program For?
+Engineers, Software and IT Professionals, Data Professionals
+Minimum Eligibility
+Bachelor's Degree with minimum 1 year of work experience or a degree in Mathematics or Statistics
+
+Sub Course :	MBA (Executive) | Business Analytics Specialisation	link :- /mba-business-analytics-nmims/
+Course Details:-
+from NAAC A+ Accredited University
+Recognised MBA (Executive)
+Career Support
+250+ Hiring Partners
+Recommended 15 hrs/week
+15 Months
+Start Date
+Sep 29, 2019
+Top Skills You Will Learn
+Core Management skills and application of analytics in them: Finance, Marketing, Economics, Human Resources, Operations and Supply Chain, Machine Learning, and Big Data Technologies
+Job Opportunities
+Management Consulting, Growth Manager, Business consultant, Leadership Roles in Business Analytics, Sales, HR, Marketing & Finance, Growth & Strategy roles
+Who Is This Program For?
+Mid-level working professionals from any domain: Marketing and Sales, HR, Finance, Operations, Software and IT. Anyone looking for an analytics-oriented leadership role.
+Eligibility
+Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and 2-3 years of work experience OR, Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and a postgraduation / professional degree with minimum 50% marks and 1-2 years of work experience
+
+Sub Course :	Business Analytics | Certification	link :- /business-analytics/
+Course Details:-
+Format
+Online
+Recommended 8-10 hrs/week
+3 months
+Preparatory Start Date
+Jun 27, 2019
+Program Start Date
+Sep 28, 2019
+Top Skills you will learn
+Statistics & Optimisation, Predictive Modelling, Machine Learning, Business Problem Solving etc.
+Job Opportunities
+Business Analyst, Data Analyst, Managerial Roles
+Who is this course for?
+Fresh Graduates, Managers, Engineers, Software and IT Professionals, Marketing & Sales Professionals, etc.
+Minimum Eligibility
+Bachelor's or Diploma Graduate Degree
+
+Sub Course :	Data Science | PG Certificate	link :- /data-science-certification-course/
+Course Details:-
+Format
+Online
+Recommended 10-12 hrs/week
+5 months
+Start Date
+Sep 28, 2019
+Top Skills You Will Learn
+Statistics, Predictive Analytics using Python, Machine Learning, Data Visualisation, Big Data Analytics, etc.
+Job Opportunities
+Data Analyst, Data Scientist, Product Analyst, Machine Learning Engineer, Business Analyst
+Who Is this Program For?
+Engineers, Software and IT Professionals, Marketing and Sales Professionals, Managers
+Minimum Eligibility
+Bachelor’s degree, no coding experience required
+
+Sub Course :	Big Data Engineering | PG Program	link :- /big-data/
+Course Details:-
+Students Empowered
+1000+
+Format
+Online
+Recommended 10-12 hrs/week
+11 months
+Start Date
+Dec 29, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Data Processing, MapReduce, Data Warehousing, Real-time Processing, Big Data Analytics, etc.
+Job Opportunities
+Big Data Engineer, Big Data Admin, Big Data Architect, Big Data Analyst
+Who is this course for?
+IT and Technology Professionals, Project Leads and Managers in IT/Tech Companies, Big Data Professionals and Java Developers and Professionals
+Minimum Eligibility
+Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
+
+Sub Course :	Machine Learning and NLP | PG Certificate	link :- /natural-language-processing/
+Course Details:-
+Format
+Online
+Recommended 10-12 hrs/week
+6 months
+Start Date
+Sep 28, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Statistics, Regression and Clustering Algorithms, Lexical, Syntactical and Semantic Processing, etc.
+Job Opportunities
+Data Analyst, Data Scientist, ML Engineer
+Who Is This Program For?
+Engineers, Software and IT Professionals, Data Professionals
+Minimum Eligibility
+Bachelor's Degree, No minimum work experience required
+
+Sub Course :	Machine Learning and Deep Learning | PG Certificate	link :- /deep-learning/
+Course Details:-
+Format
+Online
+Recommended 10-12 hrs/week
+6 months
+Start Date
+Sep 28, 2019
+Top Skills You Will Learn
+Statistics, Regression and Clustering Algorithms, Neural Networks, RNNs, CNNs, etc.
+Job Opportunities
+ML Engineer, Data Scientist
+Who Is This Program For
+Engineers, Software and IT Professionals, Data Professionals
+Minimum Eligibility
+Bachelor's Degree, No minimum work experience required
+
+Sub Course :	Big Data and Analytics | PG Certificate	link :- /big-data-analytics-ai-pgc-bits-pilani/
+Course Details:-
+Format
+Online
+Recommended 8 - 10 hrs/week
+7 months
+Start Date
+Sep 29, 2019
+Hiring Partners
+250+
+Top Skills you will learn
+Data Processing, MapReduce, Data Warehousing, Big Data Analytics etc.
+Job Opportunities
+Big Data Engineer, Big Data Devloper, Big Data Admin, Big Data Architect, Big Data Analyst
+Who is this course for?
+IT & Technology Professionals, Project Leads & Managers in IT/Tech Companies, Big Data Professionals and Java Developers & Professionals
+Minimum Eligibility
+Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
+
+Sub Course :	Data Science | Master of Science	link :- /masters-in-data-science/
+Course Details:-
+Students Empowered
+5000+
+PGD from IIIT-B & M.Sc from LJMU
+Dual Credential
+Recommended 10-12 hrs/week
+18 months
+Start Date
+Sep 28, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Statistics, Predictive Analytics using Python, Machine Learning, Data Visualization, Big Data Analytics, etc.
+Job Opportunities
+Data Analyst, Data Scientist, Product Analyst, Machine Learning Engineer, Business Analyst
+Who Is This Program For?
+Engineers, Software and IT Professionals, Marketing and Sales Professionals, Managers
+Minimum Eligibility
+Bachelor’s degree, no coding experience required
+
+Sub Course :	Machine Learning and AI | Master of Science	link :- /masters-in-ml-ai/
+Course Details:-
+Students Empowered
+1000+
+PGD from IIIT-B & M.Sc from LJMU
+Dual Credential
+Recommended 15 hrs/week
+18 months
+Start Date
+Sep 28, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+NLP, Deep Learning, Reinforcement Learning and Graphical Models along with a solid foundation in Predictive Analytics and Statistics
+Job Opportunities
+Business Analyst, Product Analyst, Machine Learning Engineer, Data Scientist
+Who Is This Program For?
+Engineers, Software and IT Professionals, Data Professionals
+Minimum Eligibility
+Bachelor's Degree with minimum 1 year of work experience or a degree in Mathematics or Statistics
+
+Course Name:
+					Management
+					
+
+Sub Course :	MBA (Executive) | Business Analytics Specialisation	link :- /mba-business-analytics-nmims/
+Course Details:-
+from NAAC A+ Accredited University
+Recognised MBA (Executive)
+Career Support
+250+ Hiring Partners
+Recommended 15 hrs/week
+15 Months
+Start Date
+Sep 29, 2019
+Top Skills You Will Learn
+Core Management skills and application of analytics in them: Finance, Marketing, Economics, Human Resources, Operations and Supply Chain, Machine Learning, and Big Data Technologies
+Job Opportunities
+Management Consulting, Growth Manager, Business consultant, Leadership Roles in Business Analytics, Sales, HR, Marketing & Finance, Growth & Strategy roles
+Who Is This Program For?
+Mid-level working professionals from any domain: Marketing and Sales, HR, Finance, Operations, Software and IT. Anyone looking for an analytics-oriented leadership role.
+Eligibility
+Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and 2-3 years of work experience OR, Bachelor’s degree (10+2+3) in any discipline from a recognised university with minimum 50% marks and a postgraduation / professional degree with minimum 50% marks and 1-2 years of work experience
+
+Sub Course :	Digital Marketing | PG Certificate	link :- /digital-marketing/
+Course Details:-
+Students Empowered
+1000+
+Format
+Online
+Recommended 7-9 hrs/week
+6.5 months
+Start Date
+Aug 12, 2019
+Hiring Partners
+250+
+Top Skills You Will learn
+SEO, SEM, Social Media and Content Marketing, Branding, Marketing Analytics
+Job Opportunities
+Digital Marketing Manager, SEM Manager, SEO Manager, Social Media and Content Manager
+Who Is This Program For?
+Freshers, Traditional Marketers, Entrepreneurs, Brand and Communication Managers, Sales Professionals
+Minimum Eligibility
+Bachelor's or Equivalent Degree
+
+Sub Course :	Digital Marketing Certificate Program | Career Track	link :- /digital-marketing-start-career/
+Course Details:-
+Entry level
+Assured Placement*
+Format
+Online
+Recommended 10-12 hrs/week
+4 months core + 1 month internship
+Start Date
+Jul 29, 2019
+Students Empowered
+1000+
+Top Skills You Will learn
+SEO, Search Engine Marketing, Social Media and Content Marketing, Campaign Management
+Job Opportunities
+Content Marketer, Digital Marketing Manager, SEM Manager, SEO Manager, Social Media Manager
+Who Is This Program For?
+Professionals with 0-2 years of work experience
+Minimum Eligibility
+Bachelor's Degree or Final year of graduation
+
+Sub Course :	Product Management | PG Certificate	link :- /product-management/
+Course Details:-
+Students Empowered
+500+
+Format
+Online
+Recommended 8-10 hrs/week
+5 months
+Start Date
+Aug 15, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+User Research, Prototyping, Design Validation, Product Deployment, GTM Strategy, etc.
+Job Opportunities
+Product Analyst, Associate Product Manager, Product Marketing Manager, Product Designer, Product Owners and Heads
+Who Is This Program for?
+Project Managers, Project Leads, Technical Managers, Software Developers, Marketing Professionals, Sales Professionals, UI-UX design, Analysts, Consultants, Entrepreneurs and BD Managers
+Minimum Eligibility
+The applicant should have at least 1 year of work experience and an undergraduate degree.
+
+Sub Course :	Strategic Digital Marketing | Executive Program	link :- /digital-strategies/
+Course Details:-
+Enrolments
+300+
+Format
+Online
+Recommended 4-6 hrs/week
+5 months
+Start Date
+Sep 25, 2019
+Industry Partners
+10+
+Top Skills you will learn
+Email Marketing, CRM, Marketing Strategy, Marketing Analytics, Search Engine Marketing, SEO, Social Media Marketing
+Job Opportunities
+Digital Marketing Strategist, Marketing Lead, Chief Marketing Officer,  VP-Marketing, Content Marketing Head
+Who is this program for?
+Business Owners, Digital Marketing Managers, Marketing Executive, Marketing Managers, CXOs
+Minimum Eligibility
+Bachelor's degree, 2 years of work experience
+
+Sub Course :	Entrepreneurship | PG Certificate	link :- /entrepreneurship-certificate-program/
+Course Details:-
+Enrolments
+650+
+Format
+Online
+Recommended 6-8 hrs/week
+3 months
+Start Date
+Jun 29, 2019
+Top Skills You Will Learn
+Idea Assessment, Customer and Competitor Analysis, Market Sizing, Business Model Development, Launch and Growth
+Who Is This Course For?
+Working Professionals, Entrepreneurs, SMEs, Students
+
+Sub Course :	Management | PG Program	link :- /sales-and-marketing/
+Course Details:-
+Format
+Online
+Recommended 6-8 hrs/week
+11 Months
+Start Date
+Sep 25, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Business Growth Strategies, Sales and Distribution Management, Digital Marketing, End-to-End Leadership and Management
+Job Opportunities
+Leadership Roles in Business Develpment and Sales, Marketing, Growth, Strategy, Management Consulting
+Who Is This Program For?
+Sales and Marketing Executives, IT Professionals, Managers and Entrepreneurs looking for an in-depth understanding of management and leadership
+Minimum Eligibility
+Bachelor’s degree, no prior sales and marketing experience required
+
+Sub Course :	Life Insurance Job | PG Program	link :- /pgpli-hdfclife/
+Course Details:-
+with HDFC Life
+Guaranteed Job*
+during the program
+Earn 1.1 lacs**
+Recommended 8-10 hrs/week
+11 months
+Start Date
+Jul 30, 2019
+Top Skills you will learn
+Selling Skills, Fundamentals of Financial Services Concepts, Insurance Industry, HDFC Life Company, Life Insurance Products, and Regulations
+Job Opportunities
+A guaranteed* role in one of the three channels of HDFC Life Front Line Sales team- either Corporate Agency Manager (CAM) in Bancassurance or Business Development Manager (BDM) in the Agency, or Financial Planning Manager (FPM) in the Direct Channel. This is an individual contributor role.
+Who is this course for?
+Working Professionals with 0-4 years of experience or Final year students
+Minimum Eligibility
+Bachelors Degree at the start of OJT and a minimum age of 21 at the completion of the program
+
+Course Name:
+					Technology
+					
+
+Sub Course :	Software Development - Blockchain | PG Diploma	link :- /blockchain-specialisation/
+Course Details:-
+Format
+Online
+Recommended 10-14 hrs/week
+11 months
+Start Date
+Aug 15, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Ethereum, Hyperledger, Smart contracts, Fabric, Composer, Core Backend development ( Agile, MVC framework, API and Dynamic programming)
+Job Opportunities
+Blockchain Developer, Ethereum Developer, Node Js Blockchain Developer,Hyperledger Developer, Solidity Developer,  Javascript Developer, Backend Developer etc
+Who is this program for?
+Software Developers, IT Professionals, Engineers, Analysts, Technical Leads
+Minimum Eligibility
+ A bachelors degree in Engineering , Science or Mathematics ( B.E. , B.Tech. , B.Sc. , BCA/MCA) . No prior coding experience required
+
+Sub Course :	Product Management | PG Certificate	link :- /product-management/
+Course Details:-
+Students Empowered
+500+
+Format
+Online
+Recommended 8-10 hrs/week
+5 months
+Start Date
+Aug 15, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+User Research, Prototyping, Design Validation, Product Deployment, GTM Strategy, etc.
+Job Opportunities
+Product Analyst, Associate Product Manager, Product Marketing Manager, Product Designer, Product Owners and Heads
+Who Is This Program for?
+Project Managers, Project Leads, Technical Managers, Software Developers, Marketing Professionals, Sales Professionals, UI-UX design, Analysts, Consultants, Entrepreneurs and BD Managers
+Minimum Eligibility
+The applicant should have at least 1 year of work experience and an undergraduate degree.
+
+Sub Course :	Software Development | PG Diploma	link :- /software-engineering/
+Course Details:-
+Students Empowered
+200+
+Format
+Online
+Recommended 10-14 hrs/week
+11 months
+Start Date
+Aug 15, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Build Robust and Scalable Websites, Backend APIs, Rich and Interactive Web UI.
+Job Opportunities
+Full-Stack Developer, Backend Developer, Frontend Developer, UI Developer
+Who Is This Program For?
+Software Developers, IT Professionals, Engineers, Analysts
+Minimum Eligibility
+Bachelor's Degree in Engineering; no coding experience required
+
+Sub Course :	Blockchain Technology | PG Certificate	link :- /blockchain-technology/
+Course Details:-
+Format
+Online
+Recommended 10-14 hrs/week
+6 months
+Start Date
+Aug 15, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Ethereum, Hyperledger, Smart contracts, Fabric, Composer,Advance JavaScript, NodeJS
+Job Opportunities
+Blockchain Developer, Ethereum Developer, Node Js Blockchain Developer, Hyperledger Developer, Solidity Developer,  Javascript Developer etc
+Who is this program for?
+Software Developers, IT Professionals, Engineers, Analysts, Technical Leads
+Program Prerequisites
+A bachelor's degree in Engineering, Science or Mathematics (B.E., B.Tech., B.Sc., BCA/MCA). No prior coding experience required
+
+Sub Course :	Big Data Engineering | PG Program	link :- /big-data/
+Course Details:-
+Students Empowered
+1000+
+Format
+Online
+Recommended 10-12 hrs/week
+11 months
+Start Date
+Dec 29, 2019
+Hiring Partners
+250+
+Top Skills You Will Learn
+Data Processing, MapReduce, Data Warehousing, Real-time Processing, Big Data Analytics, etc.
+Job Opportunities
+Big Data Engineer, Big Data Admin, Big Data Architect, Big Data Analyst
+Who is this course for?
+IT and Technology Professionals, Project Leads and Managers in IT/Tech Companies, Big Data Professionals and Java Developers and Professionals
+Minimum Eligibility
+Bachelors Degree with min. of 6 months of work experience and working knowledge of Java
+
+Sub Course :	Entrepreneurship | PG Certificate	link :- /entrepreneurship-certificate-program/
+Course Details:-
+Enrolments
+650+
+Format
+Online
+Recommended 6-8 hrs/week
+3 months
+Start Date
+Jun 29, 2019
+Top Skills You Will Learn
+Idea Assessment, Customer and Competitor Analysis, Market Sizing, Business Model Development, Launch and Growth
+Who Is This Course For?
+Working Professionals, Entrepreneurs, SMEs, Students
