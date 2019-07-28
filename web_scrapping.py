@@ -11,7 +11,6 @@ def get_Program_Details(o):
             soup = bs4.BeautifulSoup(res.text,'html.parser')
             d =soup.findAll('font',{'color':"#dbdbdb"})
             d1 =soup.findAll('div',{'class':"page-element widget-container page-element-type-text widget-text"})
-
             for i in d:
                 print(i.get_text())
                 file.write(i.get_text()+"\n")
@@ -34,6 +33,7 @@ def get_Program_Details(o):
             soup = bs4.BeautifulSoup(res.text,'html.parser')
             d = soup.findAll('div',{'class':'BannerSection__programStats__static__label'})
             d1 = soup.findAll('div',{'class':'BannerSection__programStats__static__desc'})
+            d4 = soup.findAll('div',{'class':"Syllabus__module__header__meta__title"})
             for i in range(len(d)):
                 print(d1[i].get_text()+"\n"+d[i].get_text())
                 file.write(d1[i].get_text()+"\n"+d[i].get_text()+"\n")
@@ -43,6 +43,11 @@ def get_Program_Details(o):
             for k in range(len(d2)):
                 print(d2[k].get_text()+"\n"+d3[k].get_text())
                 file.write(d2[k].get_text()+"\n"+d3[k].get_text()+"\n")
+            print("Syllabus:\n")
+            file.write("\nSyllabus:-\n")
+            for j in d4:
+                print(j.get_text())
+                file.write(j.get_text()+"\n")
             print("\n")
 
 o = []
